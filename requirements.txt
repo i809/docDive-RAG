@@ -1,0 +1,20 @@
+# streamlit: Framework for creating interactive web applications.
+# langchain_core: Core components for building and running language model applications.
+# langchain_community: Community-contributed utilities and components for langchain.
+# langchain_ollama: Integration tools for using the Ollama language model service.
+# pdfplumber: Library for extracting text, tables, and metadata from PDF files.
+# langchain_text_splitters: Functions to split text into manageable chunks.
+# docx2txt: Tool for extracting text from DOCX files.
+# faiss-cpu: Library for efficient similarity search and clustering (CPU version).
+# dill: Module for serializing Python objects.
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber
+langchain_text_splitters
+docx2txt
+faiss-cpu
+dill
+nest_asyncio
+
